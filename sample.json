@@ -1,0 +1,27 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "email": "johndoe@example.com",
+    "isStudent": false,
+    "courses": [
+      {
+        "name": "Introduction to Python",
+        "grade": "A"
+      },
+      {
+        "name": "Data Structures",
+        "grade": "B+"
+      }
+    ],
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "Anystate",
+      "zipcode": "12345"
+    },
+    "phoneNumbers": [
+      "123-456-7890",
+      "098-765-4321"
+    ]
+  }
+  
